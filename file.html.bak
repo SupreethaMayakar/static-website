@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+		INDEX
+        </title>
+         <style>
+            body{
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+                font-family: "popins,sans-serifi";
+                background-color: #1e242a;
+            }   
+            .container{
+                width:100%;
+                height:100vh;
+                background: #063463;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .card{
+                background:#a7b5c0;
+                display:flex;
+                align-items: center;
+                padding: 50px;
+                width: 900px;
+                border-radius:10px;
+                position: relative;
+            }
+            .profile-img{
+                width:150px;
+                border-radius: 50%;
+                border: 18px solid #f4eeff;
+            }
+            .info{
+                margin-left: 30px;
+                color: #555;
+                font-weight: 500;
+            }
+            .info h1{
+                font-size: 26px;
+                font-weight: 500;
+                color: #333;
+                margin-bottom: 10px;
+            }
+            .info ul{
+                display:flex;
+                align-items: center;
+                margin:10px 0 30px;
+            }
+            .info ul li{
+                list-style: none;
+                display: inline-flex;
+                align-items: center;
+                font-size: 12px;
+                margin:20px;
+                margin-top: 10px;
+            }
+            .info ul li img{
+                width:20px;
+                margin-right: 5px;
+            }
+            .link {
+                display: flex;
+                align-items: center;
+                margin: 20px 0;
+            }
+            .link a{
+                background: color #878787 ;
+                color:#8749fd;
+                text-decoration: none;
+                display: inline-flex;
+                align-items: center;
+                height:50px;
+                background: #fff;
+                border-radius:5px ;
+                border:2px solid #8749fd;
+                padding: 1px 15px;
+                font-size: 12px;
+                margin-right: 20px;
+            }
+            .share-icon{
+                width:40;
+                position: absolute;
+                top: 20px;
+                right: 25px;
+                background:#f4eeff;
+                padding: 10px;
+                border-radius:50% ;
+                cursor: pointer;
+            }    
+            .container1{
+                
+
+            }
+         </style>
+    </head>
+     <body> 
+                <div class="container">   
+                    <div class="card">
+                       <img src="supi.jpg" class="profile-img">
+                        <div class="info">
+                           <h1>1st preson</h1>
+                           <p>BCA 4th Sem</p>
+                            <ul>
+                               <li><img src="location.png" />  KYATHSANDRA </li>
+                               <li><img src="website.png"/>  FUEL STATION </li>
+                               <li><img src="instagram.png"/> supreetha_mayakar</li>
+                            </ul>
+                             <div class="link">
+                               <a href="">What up</a>
+                             </div>
+                            <a href=""> <img src="share.png"class="share-icon"/></a>
+                        </div>
+                    </div>
+               </div></div>
+               <div class="container 1">   
+                <div class="card">
+                   <img src="" class="profile-img">
+                    <div class="info">
+                       <h1>2st preson</h1>
+                       <p>BCA 4th Sem</p>
+                        <ul>
+                           <li><img src="location.png" />  address </li>
+                           <li><img src="website.png"/>  project-name  </li>
+                           <li><img src="instagram.png"/> insta-id</li>
+                        </ul>
+                         <div class="link">
+                           <a href="">What up</a>
+                         </div>
+                        <a href=""> <img src="share.png"class="share-icon"/></a>
+                    </div>
+                </div>
+           </div></div>
+           <div class="container">   
+            <div class="card">
+               <img src="" class="profile-img">
+                <div class="info">
+                   <h1>3st preson</h1>
+                   <p>BCA 4th Sem</p>
+                    <ul>
+                       <li><img src="location.png" />  address </li>
+                       <li><img src="website.png"/>  project-name </li>
+                       <li><img src="instagram.png"/> insta-id</li>
+                    </ul>
+                     <div class="link">
+                       <a href="">What up</a>
+                     </div>
+                    <a href=""> <img src="share.png"class="share-icon"/></a>
+                </div>
+            </div>
+       </div></div>
+       <div class="container">   
+        <div class="card">
+           <img src="" class="profile-img">
+            <div class="info">
+               <h1>4st preson</h1>
+               <p>BCA 4th Sem</p>
+                <ul>
+                   <li><img src="location.png" />  address </li>
+                   <li><img src="website.png"/>  project-name  </li>
+                   <li><img src="instagram.png"/> insta-id</li>
+                </ul>
+                 <div class="link">
+                   <a href=""">What up</a>
+                 </div>
+                <a href=""> <img src="share.png"class="share-icon"/></a>
+            </div>
+        </div>
+   </div></div>
+   
+       

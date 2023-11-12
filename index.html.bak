@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage Design</title>
+    <link rel="stylesheet" href="text.css">
+</head>
+<body>
+	<video autoplay loop class="back-video" muted plays-inline>
+	<source src="Underwater - 5385.mp4"type="video/mp4">
+	</video>
+	
+
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">FUEL STATION</h2>
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="new.html">ABOUT</a></li>
+                    <li><a href="#">SERVICE</a></li>
+                    <li><a href="#">FEEDBACK</a></li>
+                    <li><a href="#">CONTACT</a></li>
+		    <li><a href="newlog.html">LOGIN</a></li>
+                </ul>
+            </div>
+
+        </div>
+        <div class="content">
+		<div class="text-box">
+            <p><h1>Failures fuel<br></h1><span><h5>My Drive To Discovery</span> </p><br></h5></div>
+
+                <button class="cn"><a href="#">JOIN US</a></button>
+
+                
+
+                </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+	
+</body>
+</html>
